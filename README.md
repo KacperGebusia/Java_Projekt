@@ -9,7 +9,7 @@ Projekt z przedmiotu Zaawansowane programowanie w Javie
 
 
 ```bash
-MySQL: docker run --name java-mysql -p 8082:3306 -e MYSQL_ROOT_PASSWORD=qwerty -h 127.0.0.1 -d mysql
+MySQL: docker run --name java-mysql -p 8082:3306 -e MYSQL_ROOT_PASSWORD=qwerty -e MYSQL_DATABASE=javaprojekt -h 127.0.0.1 -d mysql
 
 phpMyAdmin:
 docker pull phpmyadmin/phpmyadmin:latest
