@@ -1,37 +1,105 @@
 package com.example.Java_Projekt.Services;
 
-import com.example.Java_Projekt.Exceptions.PasswordNotConfirmedException;
-import com.example.Java_Projekt.Exceptions.UsernameAlreadyExistsException;
+import com.example.Java_Projekt.Configuration.Security.JWT.JwtUtils;
+import com.example.Java_Projekt.Configuration.Security.Services.UserDetailsImpl;
+import com.example.Java_Projekt.Exceptions.UsernameNotFoundException;
+import com.example.Java_Projekt.Models.Enums.Roles;
+import com.example.Java_Projekt.Models.Requests.LoginRequest;
 import com.example.Java_Projekt.Models.Requests.RegisterRequest;
+import com.example.Java_Projekt.Models.Responses.JwtResponse;
+import com.example.Java_Projekt.Models.Responses.MessageResponse;
+import com.example.Java_Projekt.Models.Role;
 import com.example.Java_Projekt.Models.User;
+import com.example.Java_Projekt.Repositories.RoleRepository;
 import com.example.Java_Projekt.Repositories.UserRepository;
-import jakarta.validation.constraints.NotNull;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.authentication.AuthenticationManager;
+import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
+import org.springframework.security.core.Authentication;
+import org.springframework.security.core.GrantedAuthority;
+import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
-import java.util.Date;
-import java.util.Objects;
+import java.util.*;
+import java.util.stream.Collectors;
 
 @Service
 public class AccountService {
-    private final UserRepository userRepository;
-    private final PasswordEncoder passwordEncoder;
     @Autowired
-    public AccountService(UserRepository userRepository,PasswordEncoder passwordEncoder){
-        this.userRepository = userRepository;
-        this.passwordEncoder = passwordEncoder;
-    }
-    public User RegisterUser(@NotNull RegisterRequest request){
-        if(userRepository.findByUserName(request.getUserName()) != null){
-            throw new UsernameAlreadyExistsException();
+    AuthenticationManager authenticationManager;
+
+    @Autowired
+    UserRepository userRepository;
+
+    @Autowired
+    RoleRepository roleRepository;
+
+    @Autowired
+    PasswordEncoder passwordEncoder;
+
+    @Autowired
+    JwtUtils jwtUtils;
+    public MessageResponse Signup(RegisterRequest registerRequest){
+        MessageResponse response = new MessageResponse();
+        if (userRepository.findByUsername(registerRequest.getUserName()) != null) {
+            response.setMessage("Error: Username is already taken!",400);
+            return response;
         }
-        if(!Objects.equals(request.getConfirmPassword(), request.getPassword())){
-            throw new PasswordNotConfirmedException();
+
+        if (userRepository.findByEmail(registerRequest.getEmail()) != null) {
+            response.setMessage("Error: Email is already in use!",400);
+            return response;
         }
-        String encodedPassword = passwordEncoder.encode(request.getPassword());
-        User user = new User(request.getFirstName(), request.getLastName(),encodedPassword, request.getUserName(), request.getEmail(), new Date());
+
+        User user = new User(registerRequest.getFirstName(), registerRequest.getLastName(),passwordEncoder.encode(registerRequest.getPassword()), registerRequest.getUserName(), registerRequest.getEmail(), new Date());
+
+        Set<String> strRoles = registerRequest.getRole();
+        Set<Role> roles = new HashSet<>();
+
+        if (strRoles == null) {
+            Role userRole = roleRepository.findByName(Roles.USER)
+                    .orElseThrow(() -> new RuntimeException("Error: Role is not found."));
+            roles.add(userRole);
+        } else {
+            strRoles.forEach(role -> {
+                if (role.equals("admin")) {
+                    Role adminRole = roleRepository.findByName(Roles.ADMIN)
+                            .orElseThrow(() -> new RuntimeException("Error: Role is not found."));
+                    roles.add(adminRole);
+                } else {
+                    Role userRole = roleRepository.findByName(Roles.USER)
+                            .orElseThrow(() -> new RuntimeException("Error: Role is not found."));
+                    roles.add(userRole);
+                }
+            });
+        }
+
+        user.setRoles(roles);
         userRepository.save(user);
-        return user;
+        response.setMessage("Registration successful for user " + user,201);
+        return response;
+    }
+    public JwtResponse SignIn(LoginRequest loginRequest){
+        String username = userRepository.findByEmail(loginRequest.getEmail()).username;
+        if(username == null){
+            throw new UsernameNotFoundException("Email does not match.");
+        }
+        Authentication authentication = authenticationManager.authenticate(
+                new UsernamePasswordAuthenticationToken(username, loginRequest.getPassword()));
+
+        SecurityContextHolder.getContext().setAuthentication(authentication);
+        String jwt = jwtUtils.generateJwtToken(authentication);
+
+        UserDetailsImpl userDetails = (UserDetailsImpl) authentication.getPrincipal();
+        List<String> roles = userDetails.getAuthorities().stream()
+                .map(GrantedAuthority::getAuthority)
+                .collect(Collectors.toList());
+
+        return new JwtResponse(jwt,
+                userDetails.getId(),
+                userDetails.getUsername(),
+                userDetails.getEmail(),
+                roles);
     }
 }

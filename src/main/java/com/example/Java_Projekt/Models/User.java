@@ -7,27 +7,42 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import java.util.Date;
+import java.util.HashSet;
+import java.util.Set;
 
 @Entity
 @Table(name = "users")
-@Data
+@Getter @Setter
 public class User {
     @jakarta.persistence.Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public Long id;
     public String firstName;
     public String lastName;
-    public String userName;
+    public String username;
 
     public String password;
     public String email;
     public Date createdAt;
 
-    public User(String firstName, String lastName, String password, String userName, String email, Date createdAt) {
+    public Set<Role> getRoles() {
+        return roles;
+    }
+
+    public void setRoles(Set<Role> roles) {
+        this.roles = roles;
+    }
+
+    @ManyToMany(fetch = FetchType.LAZY)
+    @JoinTable(  name = "user_roles",
+            joinColumns = @JoinColumn(name = "user_id"),
+            inverseJoinColumns = @JoinColumn(name = "role_id"))
+    private Set<Role> roles = new HashSet<>();
+    public User(String firstName, String lastName, String password, String username, String email, Date createdAt) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.password = password;
-        this.userName = userName;
+        this.username = username;
         this.email = email;
         this.createdAt = createdAt;
     }
