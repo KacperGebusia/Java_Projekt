@@ -1,0 +1,4755 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<wyniki>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>67.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>52.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>75.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>71.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>68.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>62.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>58</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>78.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>70.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>64.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>65.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>54.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>76.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>71.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>67.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>61</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>40.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>62.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>61.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>65.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>24.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>40.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>41.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>50.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>48.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>39.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>64.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>43.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>60.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>42.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>64.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>65.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>65.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>29.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>42.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>46.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>54.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>51.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>45.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>59.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>46.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>60.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>41.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>63.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>62.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>65.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>26.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>41.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>43</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>51.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>49.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>43.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>61.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2015</rok>
+		<wartosc>46.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>62</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>55.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>70.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>73</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>64.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>55.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>56.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>72.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>67.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>58.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>59.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>56.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>71.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>71.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>62.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>61.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>32.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>55</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>53.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>57.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>25.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>37.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>36.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>37.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>41.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>41.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>53.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>42.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>58.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>29.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>55.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>53.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>56.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>28.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>39.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>36.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>42.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>42.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>40.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>44.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>38.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>60.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>30.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>55.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>53.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>57</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>26.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>38.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>36.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>38.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>42</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>41</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>48.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2016</rok>
+		<wartosc>38.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>59.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>54</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>70.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>65.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>63.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>53.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>55.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>72.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>63.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>57.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>56.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>54.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>71.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>64.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>61.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>50.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>41.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>59.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>56</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>57.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>25</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>30.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>36.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>39.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>32</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>39.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>44.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>34.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>47.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>34.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>59.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>54.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>56.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>28.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>30.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>37</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>44.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>34.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>40.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>40</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>32.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>49.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>36.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>59.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>55.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>57</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>26.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>30.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>36.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>41.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>33.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>40.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>42</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2017</rok>
+		<wartosc>32.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>58.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>55.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>72.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>62</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>62.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>51.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>56.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>73.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>60.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>57.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>55.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>55.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>73.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>61.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>60.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>51.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>31.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>56.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>53.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>59.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>26.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>30.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>31.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>38.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>31.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>35.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>42.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>37.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>48.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>26.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>57.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>55.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>59.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>29.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>30.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>33</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>43.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>33.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>34.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>35.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>33.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>51.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>28.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>57.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>54.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>59.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>27.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>30.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>32</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>39.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>32.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>35</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>38.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2018</rok>
+		<wartosc>34.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>54.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>58.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>71.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>61.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>67.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>48.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>58.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>73.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>60.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>59.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>51.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>58.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>72.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>61.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>64.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>56.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>42.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>56</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>55.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>61.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>25.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>28.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>32.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>38.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>34.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>44</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>37.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>38.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>51.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>36.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>56.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>56.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>63.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>29.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>29.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>34.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>44</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>38.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>41.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>35.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>36.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>55.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>38.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>56.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>56.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>62.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>26.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>28.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>33.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>40.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>36.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>42.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>36.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2019</rok>
+		<wartosc>36.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>55.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>52.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>69.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>55.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>60.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>48.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>52.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>72.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>55.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>57.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>52.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>52.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>71.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>55.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>59.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>58.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>37.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>55.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>56.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>65.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>27</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>20.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>43</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>36.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>30.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>35.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>38.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>32.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>54.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>31.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>55.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>55.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>68.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>32.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>20.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>43.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>43.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>35.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>34.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>36.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>28.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>57.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>33.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>55.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>56</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>66.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>29.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>20.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>43</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>38.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>33.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>34.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>37.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2020</rok>
+		<wartosc>29</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>58.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>56.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>75.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>58.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>69.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>51.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>56.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>77.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>57.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>65.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>55.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>56.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>76.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>58.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>67.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>50.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>34.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>65.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>58.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>74.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>25.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>33</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>32.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>33.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>33.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>38.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>29</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>40.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>44.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>29.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>64.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>58.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>77.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>32</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>33.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>34.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>40</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>39.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>36.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>29.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>37.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>49.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>31.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>65</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>58.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>75.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>27.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>33.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>33.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>35</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>36.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>37.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>29.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2021</rok>
+		<wartosc>37.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>57.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>57.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>74.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>56.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>67.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>50.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>57.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>78.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>58</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>68</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>54.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>57.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>76.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>57.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>podstawowy</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>67.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>55.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>36.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>63.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>52.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>78.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>28.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>39.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>43.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>34.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>35.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>37.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>39</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>kobiety</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>42.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>51.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>30.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>62.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>52.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>79.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>33.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>41.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>44.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>42.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>40.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>36.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>38.6</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>mężczyźni</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>39.9</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język polski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>54.5</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>matematyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>33.2</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język angielski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>62.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język niemiecki</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>52.3</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>język rosyjski</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>79</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>wiedza o społeczeństwie</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>30.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>geografia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>40.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>biologia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>43.4</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>chemia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>36.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>historia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>38</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>fizyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>36.7</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>filozofia</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>38.8</wartosc>
+		<flaga></flaga>
+	</wynik>
+	<wynik>
+		<nazwa_zmiennej>Średnie wyniki egzaminu maturalnego</nazwa_zmiennej>
+		<rodzaj_egzaminu>pisemny</rodzaj_egzaminu>
+		<poziom_egzaminu>rozszerzony</poziom_egzaminu>
+		<przedmiot>informatyka</przedmiot>
+		<plec>ogółem</plec>
+		<typ_informacji_z_jednostka_miary>relacja [%]</typ_informacji_z_jednostka_miary>
+		<rok>2022</rok>
+		<wartosc>40.1</wartosc>
+		<flaga></flaga>
+	</wynik>
+</wyniki>
