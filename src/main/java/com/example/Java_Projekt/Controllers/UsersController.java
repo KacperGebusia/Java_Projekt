@@ -3,20 +3,20 @@ package com.example.Java_Projekt.Controllers;
 import com.example.Java_Projekt.Models.User;
 import com.example.Java_Projekt.Services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.DeleteMapping;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
+import java.util.Optional;
 
 @RestController
+@RequestMapping("User")
+@CrossOrigin(origins = "http://localhost:3000", maxAge = 3600)
 public class UsersController {
     @Autowired
     private UserService userService;
 
-    @GetMapping
-    public List<User> fetchUsersList(){
-        return userService.fetchUsersList();
+    @GetMapping("get-user/{id}")
+    public Optional<User> fetchUser(@PathVariable Long id){
+        return userService.getUserById(id);
     }
     @DeleteMapping("/{id}")
     public String deleteUserById(Long id){

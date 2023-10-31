@@ -2,15 +2,16 @@ package com.example.Java_Projekt.Models.Files;
 
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlRootElement;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
+import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
-import org.springframework.data.annotation.Id;
 
 @Getter
 @Setter
+@Entity
+@Table(name = "internet_access")
 public class InternetAccess {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;

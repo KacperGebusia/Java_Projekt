@@ -12,4 +12,12 @@ import java.util.List;
 public class Results{
     @JacksonXmlProperty(localName = "wynik")
     private List<MatureExamResult> ResultsList;
+
+    public List<MatureExamResult> getResultsList() {
+        return ResultsList;
+    }
+
+    public void setResultsList(List<MatureExamResult> resultsList) {
+        ResultsList = resultsList;
+    }
 }

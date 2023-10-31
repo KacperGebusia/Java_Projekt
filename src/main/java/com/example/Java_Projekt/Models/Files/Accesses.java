@@ -9,4 +9,12 @@ import java.util.List;
 public class Accesses {
     @JacksonXmlProperty(localName = "dostep")
     private List<InternetAccess> AccessesList;
+
+    public List<InternetAccess> getAccessesList() {
+        return AccessesList;
+    }
+
+    public void setAccessesList(List<InternetAccess> accessesList) {
+        AccessesList = accessesList;
+    }
 }
