@@ -3,11 +3,15 @@ package com.example.Java_Projekt.Controllers;
 import com.example.Java_Projekt.Models.Files.AccessType;
 import com.example.Java_Projekt.Models.Files.InternetAccess;
 import com.example.Java_Projekt.Models.Files.MatureExamResult;
+import com.example.Java_Projekt.Models.Requests.ExamResultsDTO;
 import com.example.Java_Projekt.Models.Requests.RegisterRequest;
 import com.example.Java_Projekt.Models.Responses.MessageResponse;
 import com.example.Java_Projekt.Repositories.AccessTypeRepository;
 import com.example.Java_Projekt.Repositories.InternetAccessRepository;
 import com.example.Java_Projekt.Repositories.MatureExamResultRepository;
+import com.example.Java_Projekt.Services.FileService;
+import jakarta.annotation.Nullable;
+import jakarta.validation.constraints.Null;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -20,39 +24,28 @@ import java.util.List;
 public class FileController {
 
     @Autowired
-    private MatureExamResultRepository matureExamResultRepository;
-    @Autowired
-    private InternetAccessRepository internetAccessRepository;
-    @Autowired
-    private AccessTypeRepository accessTypeRepository;
+    private FileService fileService;
     @GetMapping("/get-mature-exam-result")
-    public List<MatureExamResult> getMatureExamResult() {
-        return matureExamResultRepository.findAll();
+    public List<MatureExamResult> getMatureExamResult(@Nullable String plec, @Nullable String przedmiot, @Nullable String poziom, @Nullable Integer rok) {
+        return fileService.getMatureExamResults(plec,przedmiot,poziom,rok);
     }
 
     @GetMapping("/get-internet-access")
     public List<InternetAccess> getInternetAccesses() {
-        return internetAccessRepository.findAll();
-    }
-
-    @PostMapping("/add-internet-access")
-    public void addInternetAccess(@RequestBody InternetAccess access) {
-        internetAccessRepository.save(access);
+        return fileService.getInternetAccess();
     }
 
     @PostMapping("/add-mature-exam-result")
-    public void addMatureExamResult(@RequestBody MatureExamResult result) {
-        matureExamResultRepository.save(result);
+    public void addMatureExamResult(@RequestBody ExamResultsDTO result) {
+
+        fileService.addMatureExamResult(result);
     }
 
     @DeleteMapping("/delete-all-data")
-    public void deleteAllData() {
-        internetAccessRepository.deleteAll();
-        matureExamResultRepository.deleteAll();
-    }
+    public void deleteAllData() { fileService.deleteData(); }
 
     @GetMapping("/get-accesses-type")
     public List<AccessType> getAccessesType() {
-        return accessTypeRepository.findAll();
+        return fileService.getAccessTypes();
     }
 }
