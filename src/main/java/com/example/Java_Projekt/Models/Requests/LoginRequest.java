@@ -1,13 +1,15 @@
 package com.example.Java_Projekt.Models.Requests;
 
 import jakarta.validation.constraints.NotBlank;
-import lombok.Getter;
-import lombok.Setter;
 
-@Getter @Setter
 public class LoginRequest {
     @NotBlank
     private String email;
+
+    public LoginRequest(String email, String password) {
+        this.email = email;
+        this.password = password;
+    }
 
     public String getPassword() {
         return password;

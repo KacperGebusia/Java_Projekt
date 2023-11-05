@@ -2,7 +2,7 @@ package com.example.Java_Projekt.Services;
 
 import com.example.Java_Projekt.Configuration.Security.JWT.JwtUtils;
 import com.example.Java_Projekt.Configuration.Security.Services.UserDetailsImpl;
-import com.example.Java_Projekt.Exceptions.UsernameNotFoundException;
+import com.example.Java_Projekt.Exceptions.EmailNotFoundException;
 import com.example.Java_Projekt.Models.Enums.Roles;
 import com.example.Java_Projekt.Models.Requests.LoginRequest;
 import com.example.Java_Projekt.Models.Requests.RegisterRequest;
@@ -81,12 +81,12 @@ public class AccountService {
         return response;
     }
     public JwtResponse SignIn(LoginRequest loginRequest){
-        String username = userRepository.findByEmail(loginRequest.getEmail()).username;
-        if(username == null){
-            throw new UsernameNotFoundException("Email does not match.");
+        User user = userRepository.findByEmail(loginRequest.getEmail());
+        if(user == null){
+            throw new EmailNotFoundException("Email does not match.");
         }
         Authentication authentication = authenticationManager.authenticate(
-                new UsernamePasswordAuthenticationToken(username, loginRequest.getPassword()));
+                new UsernamePasswordAuthenticationToken(user.getUsername(), loginRequest.getPassword()));
 
         SecurityContextHolder.getContext().setAuthentication(authentication);
         String jwt = jwtUtils.generateJwtToken(authentication);

@@ -15,7 +15,8 @@ import org.springframework.web.multipart.MultipartFile;
 import java.util.List;
 
 @RestController
-@RequestMapping("/import")
+@RequestMapping("/Import")
+@CrossOrigin(origins = "http://localhost:3000", maxAge = 3600)
 public class ImportController {
 
     @Autowired
