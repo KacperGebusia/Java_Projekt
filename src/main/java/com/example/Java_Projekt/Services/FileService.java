@@ -1,5 +1,6 @@
 package com.example.Java_Projekt.Services;
 
+import com.example.Java_Projekt.Exceptions.ObjectsNotFoundInFile;
 import com.example.Java_Projekt.Mappers.MatureExamMapper;
 import com.example.Java_Projekt.Models.Files.*;
 import com.example.Java_Projekt.Models.Requests.ExamResultsDTO;
@@ -9,10 +10,6 @@ import com.example.Java_Projekt.Repositories.MatureExamResultRepository;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.annotation.Nullable;
-import jakarta.validation.constraints.Null;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.core.io.FileSystemResource;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 import java.io.IOException;
@@ -21,24 +18,32 @@ import java.util.List;
 @Service
 public class FileService {
 
-    @Autowired
+
     private MatureExamResultRepository matureExamResultRepository;
-    @Autowired
     private InternetAccessRepository internetAccessRepository;
-    @Autowired
     private AccessTypeRepository accessTypeRepository;
-    @Autowired
     private MatureExamMapper mapper;
 
-    public List<InternetAccess> importInternetAccess(MultipartFile file) throws IOException {
+    public FileService(MatureExamResultRepository matureExamResultRepository, InternetAccessRepository internetAccessRepository, AccessTypeRepository accessTypeRepository, MatureExamMapper mapper) {
+        this.matureExamResultRepository = matureExamResultRepository;
+        this.internetAccessRepository = internetAccessRepository;
+        this.accessTypeRepository = accessTypeRepository;
+        this.mapper = mapper;
+    }
+
+    public List<InternetAccess> importInternetAccess(MultipartFile file) throws IOException, ObjectsNotFoundInFile {
         ObjectMapper mapper = new ObjectMapper();
         List<InternetAccess>entities = mapper.readValue(file.getInputStream(),new TypeReference<List<InternetAccess>>() {});
+        if(entities.isEmpty())
+            throw new ObjectsNotFoundInFile();
         internetAccessRepository.saveAll(entities);
         return entities;
     }
-    public List<MatureExamResult> importMatureExamResults(MultipartFile file) throws IOException {
+    public List<MatureExamResult> importMatureExamResults(MultipartFile file) throws IOException, ObjectsNotFoundInFile {
         ObjectMapper mapper = new ObjectMapper();
         List<MatureExamResult>entities = mapper.readValue(file.getInputStream(),new TypeReference<List<MatureExamResult>>() {});
+        if(entities.isEmpty())
+            throw new ObjectsNotFoundInFile();
         matureExamResultRepository.saveAll(entities);
         return entities;
     }

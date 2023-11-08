@@ -14,6 +14,7 @@ import jakarta.annotation.Nullable;
 import jakarta.validation.constraints.Null;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
+import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -22,25 +23,21 @@ import java.util.List;
 @RequestMapping("File")
 @CrossOrigin(origins = "http://localhost:3000", maxAge = 3600)
 public class FileController {
-
     @Autowired
     private FileService fileService;
     @GetMapping("/get-mature-exam-result")
     public List<MatureExamResult> getMatureExamResult(@Nullable String plec, @Nullable String przedmiot, @Nullable String poziom, @Nullable Integer rok) {
         return fileService.getMatureExamResults(plec,przedmiot,poziom,rok);
     }
-
     @GetMapping("/get-internet-access")
     public List<InternetAccess> getInternetAccesses() {
         return fileService.getInternetAccess();
     }
-
     @PostMapping("/add-mature-exam-result")
     public void addMatureExamResult(@RequestBody ExamResultsDTO result) {
-
         fileService.addMatureExamResult(result);
     }
-
+    @PreAuthorize("hasRole('ADMIN')")
     @DeleteMapping("/delete-all-data")
     public void deleteAllData() { fileService.deleteData(); }
 

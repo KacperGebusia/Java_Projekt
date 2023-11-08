@@ -3,12 +3,34 @@ package com.example.Java_Projekt.Models.Files;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlRootElement;
 import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 
 @Entity
+@Setter
 @Table(name = "internet_access")
 public class InternetAccess {
+
+    public InternetAccess(Long id, String type, double r2011, double r2012, double r2013, double r2014, double r2015, double r2016, double r2017, double r2018, double r2019, double r2020, double r2021, double r2022) {
+        this.id = id;
+        this.type = type;
+        this.r2011 = r2011;
+        this.r2012 = r2012;
+        this.r2013 = r2013;
+        this.r2014 = r2014;
+        this.r2015 = r2015;
+        this.r2016 = r2016;
+        this.r2017 = r2017;
+        this.r2018 = r2018;
+        this.r2019 = r2019;
+        this.r2020 = r2020;
+        this.r2021 = r2021;
+        this.r2022 = r2022;
+    }
+
+    public InternetAccess() {
+    }
 
     public Long getId() {
         return id;

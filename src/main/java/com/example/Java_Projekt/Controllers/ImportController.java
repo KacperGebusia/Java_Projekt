@@ -26,7 +26,7 @@ public class ImportController {
         this.fileService = fileService;
     }
 
-    //@PreAuthorize("hasRole('Admin')")
+    @PreAuthorize("hasRole('ADMIN')")
     @PostMapping(path = "/import-mature-exam-results", consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
     public ResponseEntity<?> ImportMatureExamResults(@RequestParam("file") MultipartFile file) {
         if (file.isEmpty()) {
@@ -44,7 +44,7 @@ public class ImportController {
             return ResponseEntity.badRequest().body("Nieprawidłowy format pliku.");
         }
     }
-
+    @PreAuthorize("hasRole('ADMIN')")
     @PostMapping(path = "/import-internet-accesses", consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
     //@PreAuthorize("hasRole('Admin')")
     public ResponseEntity<?> importInternetAccess(@RequestParam("file") MultipartFile file) {
