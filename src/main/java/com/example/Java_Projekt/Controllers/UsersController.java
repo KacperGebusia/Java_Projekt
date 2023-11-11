@@ -9,6 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.List;
 import java.util.Optional;
 
 @RestController
@@ -21,6 +22,10 @@ public class UsersController {
     @GetMapping("get-user/{id}")
     public Optional<User> fetchUser(@PathVariable Long id){
         return userService.getUserById(id);
+    }
+    @GetMapping("get-users")
+    public List<User> fetchUserList(){
+        return userService.getUsersList();
     }
     @DeleteMapping("/{id}")
     public String deleteUserById(Long id){
