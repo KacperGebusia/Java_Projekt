@@ -47,24 +47,8 @@ public class FileService {
         matureExamResultRepository.saveAll(entities);
         return entities;
     }
-    public List<MatureExamResult> getMatureExamResults(@Nullable String plec, @Nullable String przedmiot, @Nullable String poziom, @Nullable int rok){
-
-        return matureExamResultRepository.findAll();
-    }
     public List<MatureExamResult> getMatureExamResults() {
         return matureExamResultRepository.findAll(); // Retrieve all results
-    }
-
-    public List<MatureExamResult> getMatureExamResults(String przedmiot) {
-        return matureExamResultRepository.getMatureExamResult(przedmiot, null, null, null);
-    }
-
-    public List<MatureExamResult> getMatureExamResults(String przedmiot, String plec) {
-        return matureExamResultRepository.getMatureExamResult(przedmiot, plec, null, null);
-    }
-
-    public List<MatureExamResult> getMatureExamResults(String przedmiot, String plec, String poziom) {
-        return matureExamResultRepository.getMatureExamResult(przedmiot, plec, poziom, null);
     }
     public List<AccessType> getAccessTypes(){
         return accessTypeRepository.findAll();

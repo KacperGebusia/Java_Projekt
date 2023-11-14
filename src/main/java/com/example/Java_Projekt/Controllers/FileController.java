@@ -26,8 +26,8 @@ public class FileController {
     @Autowired
     private FileService fileService;
     @GetMapping("/get-mature-exam-result")
-    public List<MatureExamResult> getMatureExamResult(@Nullable String plec, @Nullable String przedmiot, @Nullable String poziom, @Nullable int rok) {
-        return fileService.getMatureExamResults(plec,przedmiot,poziom,rok);
+    public List<MatureExamResult> getMatureExamResult() {
+        return fileService.getMatureExamResults();
     }
     @GetMapping("/get-internet-access")
     public List<InternetAccess> getInternetAccesses() {

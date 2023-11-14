@@ -10,15 +10,4 @@ import java.util.List;
 
 @Repository
 public interface MatureExamResultRepository extends JpaRepository<MatureExamResult, Long> {
-    @Query("SELECT mer FROM MatureExamResult mer " +
-            "WHERE (:przedmiot is null OR mer.przedmiot = :przedmiot) " +
-            "AND (:plec is null OR mer.plec = :plec) " +
-            "AND (:poziom is null OR mer.poziom_egzaminu = :poziom) " +
-            "AND (:rok is null OR mer.rok = :rok)")
-    List<MatureExamResult> getMatureExamResult(
-            @Param("przedmiot") String przedmiot,
-            @Param("plec") String plec,
-            @Param("poziom") String poziom,
-            @Param("rok") Integer rok
-    );
 }
