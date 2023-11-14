@@ -47,7 +47,7 @@ public class FileService {
         matureExamResultRepository.saveAll(entities);
         return entities;
     }
-    public List<MatureExamResult> getMatureExamResults(@Nullable String plec, @Nullable String przedmiot, @Nullable String poziom, @Nullable Integer rok){
+    public List<MatureExamResult> getMatureExamResults(@Nullable String plec, @Nullable String przedmiot, @Nullable String poziom, @Nullable int rok){
 
         return matureExamResultRepository.findAll();
     }

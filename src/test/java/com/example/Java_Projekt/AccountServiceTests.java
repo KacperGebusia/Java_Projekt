@@ -65,7 +65,7 @@ public class AccountServiceTests {
         JwtResponse result = accountService.SignIn(loginRequest);
 
         assertNotNull(SecurityContextHolder.getContext().getAuthentication());
-        assertEquals("jwtToken", result.getAccessToken());
+        assertEquals("jwtToken", result.getToken());
         assertEquals(1L, result.getId());
         assertEquals("username", result.getUsername());
         assertEquals("email@example.com", result.getEmail());
