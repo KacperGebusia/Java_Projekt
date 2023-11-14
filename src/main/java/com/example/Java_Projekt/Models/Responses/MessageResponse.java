@@ -1,31 +1,20 @@
 package com.example.Java_Projekt.Models.Responses;
 
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Getter
+@Setter
+@AllArgsConstructor
+@NoArgsConstructor
 public class MessageResponse {
     private String message;
-    private Integer statusCode;
+    private int statusCode;
 
-    public MessageResponse() {
-    }
-
-    public MessageResponse(String message, Integer statusCode) {
+    public void setMessage(String message, int statusCode) {
         this.message = message;
-        this.statusCode = statusCode;
-    }
-
-    public String getMessage() {
-        return message;
-    }
-
-    public void setMessage(String message, Integer statusCode) {
-        this.message = message;
-        this.statusCode = statusCode;
-    }
-
-    public Integer getStatusCode() {
-        return statusCode;
-    }
-
-    public void setStatusCode(Integer statusCode) {
         this.statusCode = statusCode;
     }
 }

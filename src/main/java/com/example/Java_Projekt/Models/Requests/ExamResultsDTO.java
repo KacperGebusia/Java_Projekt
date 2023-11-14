@@ -10,6 +10,6 @@ public class ExamResultsDTO {
     public String poziom_egzaminu;
     public String przedmiot;
     public String rodzaj_egzaminu;
-    public Integer rok;
+    public int rok;
     public Double wartosc;
 }

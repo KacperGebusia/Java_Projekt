@@ -14,76 +14,14 @@ import java.util.Set;
 @Entity
 @Table(name = "users")
 @Setter
+@NoArgsConstructor
 public class User {
-
-    public void setId(Long id) {
-        this.id = id;
-    }
-
-    public void setFirstName(String firstName) {
-        this.firstName = firstName;
-    }
-
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
-    }
-
-    public void setUsername(String username) {
-        this.username = username;
-    }
-
-    public void setPassword(String password) {
-        this.password = password;
-    }
-
-    public void setEmail(String email) {
-        this.email = email;
-    }
-
-    public void setCreatedAt(Date createdAt) {
-        this.createdAt = createdAt;
-    }
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public Long id;
     public String firstName;
     public String lastName;
-
-    public Long getId() {
-        return id;
-    }
-
-    public String getFirstName() {
-        return firstName;
-    }
-
-    public String getLastName() {
-        return lastName;
-    }
-
-    public String getUsername() {
-        return username;
-    }
-
-    public String getPassword() {
-        return password;
-    }
-
-    public String getEmail() {
-        return email;
-    }
-
-    public Date getCreatedAt() {
-        return createdAt;
-    }
-
-    public Set<Role> getRoles() {
-        return roles;
-    }
-
     public String username;
-
     public String password;
     public String email;
     public Date createdAt;
@@ -97,6 +35,11 @@ public class User {
             joinColumns = @JoinColumn(name = "user_id"),
             inverseJoinColumns = @JoinColumn(name = "role_id"))
     private Set<Role> roles = new HashSet<>();
+
+    public Set<Role> getRoles() {
+        return roles;
+    }
+
     public User(String firstName, String lastName, String password, String username, String email, Date createdAt) {
         this.firstName = firstName;
         this.lastName = lastName;
@@ -104,9 +47,6 @@ public class User {
         this.username = username;
         this.email = email;
         this.createdAt = createdAt;
-    }
-
-    public User() {
     }
 
     @Override
