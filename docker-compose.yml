@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql:latest
+    container_name: java_mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: qwerty
+      MYSQL_DATABASE: javaprojekt
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+  app:
+    depends_on:
+      - db
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: java_app
+    ports:
+      - "8080:8080"
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://db:3306/javaprojekt
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: qwerty
+volumes:
+  mysql-data:
