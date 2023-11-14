@@ -26,7 +26,7 @@ public class FileController {
     @Autowired
     private FileService fileService;
     @GetMapping("/get-mature-exam-result")
-    public List<MatureExamResult> getMatureExamResult(@Nullable String plec, @Nullable String przedmiot, @Nullable String poziom, @Nullable Integer rok) {
+    public List<MatureExamResult> getMatureExamResult(@Nullable String plec, @Nullable String przedmiot, @Nullable String poziom, @Nullable int rok) {
         return fileService.getMatureExamResults(plec,przedmiot,poziom,rok);
     }
     @GetMapping("/get-internet-access")
@@ -37,7 +37,7 @@ public class FileController {
     public void addMatureExamResult(@RequestBody ExamResultsDTO result) {
         fileService.addMatureExamResult(result);
     }
-    @PreAuthorize("hasRole('ADMIN')")
+    @PreAuthorize("hasRole('ROLE_ADMIN')")
     @DeleteMapping("/delete-all-data")
     public void deleteAllData() { fileService.deleteData(); }
 
